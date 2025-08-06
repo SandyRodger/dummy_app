@@ -1,1 +1,1 @@
-alert("this page is working");
+console.log('WTF')
